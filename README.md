@@ -1,16 +1,16 @@
-# geter_app
+## Mobile Kelompok C - SDGS 10
+Repository Projek Pemrograman Mobile A - kelompok C -  SDGS 10
 
-A new Flutter project.
+Nama Anggota :
+1. Septi Puji Lestari - 182410103019
+2. Agill Fajar Prismadika - 182410103016
+3. Muhammad Ilham A. - 182410103079
+.
+### Geter's - Together to Help Others
+Aplikasi galang dana bersama berbasis Mobile.
+Dengan adanya aplikasi Geter's pengguna dapat berdonasi dan mengajukan penggalangan dana (sesama donatur) yang diharap dapat meringankan pengguna dalam masalah biaya/keuangan.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Log
++ Progress 1 
+  - splash screen
+  - form login
