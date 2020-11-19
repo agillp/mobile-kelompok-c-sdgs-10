@@ -14,3 +14,9 @@ Dengan adanya aplikasi Geter's pengguna dapat berdonasi dan mengajukan penggalan
 + Progress 1 
   - splash screen
   - form login
++ Progress 2 
+  - UI start app
+  - Navigasi ke setiap halaman
+  - Asset gambar di beberapa halaman
+  - Bottom navbar (Statefull Widget)
+  - List view
