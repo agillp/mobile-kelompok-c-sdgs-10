@@ -6,7 +6,7 @@ class Akun extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: ListView(
+      body: ListView( //ListView
         children: [
           Container(
             child: Column(
