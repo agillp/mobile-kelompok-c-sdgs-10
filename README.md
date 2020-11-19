@@ -7,7 +7,7 @@ Nama Anggota :
 3. Muhammad Ilham A. - 182410103079
 .
 ### Geter's - Together to Help Others
-Aplikasi galang dana bersama berbasis Mobile.
+Aplikasi donasi dana bersama berbasis Mobile.
 Dengan adanya aplikasi Geter's pengguna dapat berdonasi dan mengajukan penggalangan dana (sesama donatur) yang diharap dapat meringankan pengguna dalam masalah biaya/keuangan.
 
 ### Log
