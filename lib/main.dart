@@ -11,6 +11,10 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
+      title: 'Custom Fonts',
+      theme: ThemeData(
+        fontFamily: 'Nunito'
+      ),
       initialRoute: '/',
       routes: {
         '/': (context) => Dashboard(),

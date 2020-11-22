@@ -35,6 +35,7 @@ class _DashboardState extends State<Dashboard> {
                   fontWeight: FontWeight.bold,
                   fontSize: 30,
                   color: Colors.white,
+                  fontFamily: 'NunitoLight'
                 ),
               ),
               Padding(
