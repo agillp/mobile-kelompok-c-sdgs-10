@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:geter_app/dompet.dart';
 import 'package:geter_app/start.dart';
 import 'app.dart';
 import 'dasbor.dart';
@@ -12,15 +13,14 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
       title: 'Custom Fonts',
-      theme: ThemeData(
-        fontFamily: 'Nunito'
-      ),
+      theme: ThemeData(fontFamily: 'Nunito'),
       initialRoute: '/',
       routes: {
         '/': (context) => Dashboard(),
         '/start': (context) => Start(),
         '/masuk': (context) => Masuk(),
-        '/beranda' : (context) => Beranda(),
+        '/beranda': (context) => Beranda(),
+        '/akun0': (context) => Dompet(),
       },
     );
   }

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:geter_app/donasi.dart';
 import 'home.dart';
 import 'akun.dart';
 
@@ -28,7 +29,7 @@ class _BerandaState extends State<Beranda> {
 
     final _listPage = [
       Home(),
-      Text('Halaman Donasi'),
+      Donasi(),
       Akun(),
     ];
     final _bottomNavBarItems = [
