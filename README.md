@@ -20,3 +20,7 @@ Dengan adanya aplikasi Geter's pengguna dapat berdonasi dan mengajukan penggalan
   - Asset gambar di beberapa halaman
   - Bottom navbar (Statefull Widget)
   - List view
++ Progress 3 (UAS)
+  - Input Field
+  - Image from URL
+  - Maps
