@@ -16,6 +16,7 @@ class Donasi extends StatelessWidget {
           RiwayatDonasi datax = riwayatDonasi[index];
           return Card(
             child: ListTile(
+              
               title: Text(
                 datax.iniJudul,
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18),

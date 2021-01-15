@@ -17,7 +17,6 @@ class Home extends StatelessWidget {
                 padding: EdgeInsets.all(18.0),
                 child: Column(
                   children: [
-                    
                     Text(
                       'Geter\'s Membantu Sesama',
                       style:
@@ -29,7 +28,7 @@ class Home extends StatelessWidget {
                     // ),
                     Text('Donasi Bersama Untuk Membantu Sesama'),
                     Container(
-                      padding: EdgeInsets.only(top:20),
+                      padding: EdgeInsets.only(top: 20),
                       width: double.infinity,
                       child: RaisedButton(
                         child: Text('DONASI SEKARANG'),

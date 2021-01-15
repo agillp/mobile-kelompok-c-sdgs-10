@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'dompet.dart';
+import 'akun_akun.dart';
 
 class AkunData {
   final IconData iniIkon;
@@ -12,7 +11,7 @@ class AkunData {
 List akunData = [
   AkunData(
     iniIkon: Icons.account_circle_rounded,
-    iniJudul: 'Hello World',
+    iniJudul: 'Akun',
   ),
   AkunData(
     iniIkon: Icons.wallet_membership_rounded,
@@ -51,7 +50,7 @@ List riwayatDonasi = [
     donasi: 'Rp20.000',
   ),
   RiwayatDonasi(
-    iniJudul: 'Donasi Sahabat Kita Jarjit Sing Penyakit Panu',
+    iniJudul: 'Donasi Sahabat Kita Jarjit Sing Penyakit Kanker Rahim',
     tanggal: '14 Nov 2020',
     donasi: 'Rp10.000',
   ),

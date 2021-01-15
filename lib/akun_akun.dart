@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
-class Dompet extends StatelessWidget {
+class AkunAkun extends StatelessWidget {
   
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('da'),),
+      appBar: AppBar(title: Text('Pengaturan Akun'),),
       
     );
   }

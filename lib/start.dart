@@ -62,7 +62,7 @@ class Start extends StatelessWidget {
                           borderRadius: BorderRadius.circular(25),
                         ),
                         onPressed: () {
-                          //Navigator.pushNamed(context, '/start');
+                          Navigator.pushNamed(context, '/daftar');
                         },
                       ),
                     ),
